@@ -1,16 +1,26 @@
-# business_card
+# Business Card App
 
-A new Flutter project.
+This is my first **_Flutter_** app.I am making this simple app to arn some of the basic building blocks(**Widgets**) of **_Flutter_**.
 
-## Getting Started
+## App Description-
 
-This project is a starting point for a Flutter application.
+This is a simple _Presentational_ app.It basically does nothing but showing my Information.
 
-A few resources to get you started if this is your first Flutter project:
+## Learning-
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+By making this app,I've learned so many thins-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- How **\_Flutter** apps are being designed.
+- What is _Widget_ & how to declare it.
+- How to use **_Flutter_** Docs to find out _Widgets_ very eassily.(\_\_\_Special Thanks to Flutter team to make & maintain such an amazing Doc.)
+- Some of the core concepts of **_Flutter_**.
+
+## Developer Info-
+
+I am Sonet Adhikary.I am a self-taught programmer.
+
+**_Email_**: sonet.ad101@gmail.com
+
+**_Twitter_**: sonetthecoder
+
+**_Instagram_**: sonetthecoder
