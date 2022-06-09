@@ -8,9 +8,9 @@ This is a simple _Presentational_ app.It basically does nothing but showing my I
 
 ## Learning-
 
-By making this app,I've learned so many thins-
+By making this app,I've learned so many things-
 
-- How **\_Flutter** apps are being designed.
+- How **Flutter** apps are being designed.
 - What is _Widget_ & how to declare it.
 - How to use **_Flutter_** Docs to find out _Widgets_ very eassily **_(Special Thanks to Flutter team to make & maintain such an amazing Doc)_**
 - Some of the core concepts of **_Flutter_**.
